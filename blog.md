@@ -25,3 +25,15 @@ I'll finish my first post with a little fun and create an emotional table of my 
 |Wednesday|:sweat:|
 |Thursday|:raising_hand::raising_hand::raising_hand:|
 |Friday|:pray:|
+
+
+# Week 2 - Structure and Style
+###### Walter Saygers 2/7/2021
+
+I am now two weeks into Awesome Inc U Bootcamp and things are moving quickly. I have jumped off many cliffs and journeyed into several deserts, and I believe I am building my computer literacy. 
+
+My struggles continue to be keeping pace with the program while giving the proper about of time investment to understand the key subjects in the projects we do. The support system consisting of the instructors and my fellow bootcampers is strong, and it is a great source of motivation during these times of struggle. Overcoming these early challenges is increasing my confidence to tackle larger problems that I know will come later.
+
+During Week 3, I will be continuing with JavaScript and taking a deeper dive into pseudo code. Pseudo code is similar to blue prints. You manage your time appropriately and envision a project before typing a single line of code. It seems like an ordeal but I do see the benefits of having a clear target for a finished project. Pseudo code is brainstorming what the code needs to look like and highlighting where potential problems could arise. Pseudo code seems a useful tool and is something I want to have a firm grasp on so I can utilize it with efficacy.
+
+I am excited to jump into JavaScript and put some action into a webpage. The Kata challenges will present a fun and challenging way to boost my knowledge of JavaScript and work with my Code Wars Clan. Looking further into the future of the program and instilling the Agile way into my work flow style is something I am eager to implement. 
