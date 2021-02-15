@@ -37,3 +37,12 @@ My struggles continue to be keeping pace with the program while giving the prope
 During Week 3, I will be continuing with JavaScript and taking a deeper dive into pseudo code. Pseudo code is similar to blue prints. You manage your time appropriately and envision a project before typing a single line of code. It seems like an ordeal but I do see the benefits of having a clear target for a finished project. Pseudo code is brainstorming what the code needs to look like and highlighting where potential problems could arise. Pseudo code seems a useful tool and is something I want to have a firm grasp on so I can utilize it with efficacy.
 
 I am excited to jump into JavaScript and put some action into a webpage. The Kata challenges will present a fun and challenging way to boost my knowledge of JavaScript and work with my Code Wars Clan. Looking further into the future of the program and instilling the Agile way into my work flow style is something I am eager to implement. 
+
+# Week 3 - Javascript Intro
+###### Walter Saygers 2/14/2021
+
+The bones(HTML), creativity(CSS), and action(JavaScript) combine to create most of the content on the web. While they are separate and each has their own unique importance to the internet, all three are interconnected and need one another to create dynamic and attractive web pages. HTML provides the structure and establishes the layout of the page. CSS gives a web page aesthetic characteristics. JavaScript gives the web page interactive qualities for the users.
+
+My blog incorporates markdown which is similar to HTML as they are both markup languages. Some of the specifics are the body and headers. HTML pages are more intricate with a head section consisting of metadata and elements search engines use. The body has different elements of organization, and a footer can include copyright materials. 
+
+This week we had a pseudo code project. I did my project on hand washing. Pseudo code is new to me and I am looking forward to gaining more experience with it. Its value is in the planning and working out bugs before putting any actual code into a text editor. My greenness with actual code I feel might limit my effectiveness with pseudo code, but I have confidence that as I progress my pseudo code will get stronger as well. 
