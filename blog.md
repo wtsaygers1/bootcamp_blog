@@ -46,3 +46,14 @@ The bones(HTML), creativity(CSS), and action(JavaScript) combine to create most 
 My blog incorporates markdown which is similar to HTML as they are both markup languages. Some of the specifics are the body and headers. HTML pages are more intricate with a head section consisting of metadata and elements search engines use. The body has different elements of organization, and a footer can include copyright materials. 
 
 This week we had a pseudo code project. I did my project on hand washing. Pseudo code is new to me and I am looking forward to gaining more experience with it. Its value is in the planning and working out bugs before putting any actual code into a text editor. My greenness with actual code I feel might limit my effectiveness with pseudo code, but I have confidence that as I progress my pseudo code will get stronger as well. 
+
+# Week 4 - Agile and JavaScript
+###### Walter Saygers 2/27/2021
+
+This week we took a deeper dive into the Agile Methodology, explored more JavaScript, and worked on two projects. Both projects were JavaScript heavy. In one, we created a digital clock and the other was a countdown timer. 
+
+The Digital Clock Project was pretty cool and definitely has changed how I look at clocks on any computer. I created a Date Object and used getters and setters to initiate a time and update it continuously. I did not know JavaScript had methods to get the time, and it makes me wonder what else I will discover about JavaScript in the coming weeks, months, and years. Google has been a great help and reading as much documentation on markup, design, and programming languages as I can get my hands on. I would like to explore the toLocaleString methods in JavaScript and how to overcome the issues of leap years, time zone changes, and day light's saving.
+
+The Countdown Timer Project was similar to the Digital Clock but had its unique challenges. Creating the timer was straight forward, but I had issues with resetting the timer, displaying in the GUI a place where the user could input a desired time to countdown as well as reset the timer. These little puzzles in each project are challenging but pseudo code and Google along with the resources of Awesome Inc have been life boats in this ocean of new knowledge.
+
+The coming weeks will be filled with struggles, frustration, and triumph! My big takes aways from finishing the prework phase are to complete readings and revisit ideas consistently to cement them, and even more important is to use pseudo code. I need to pseudo code the design of the layout, pseudo code the project in plain english, then pseudo code that plain english to desired structure, objects, methods, and functions in machine talk, and then pseudo code some more! 
